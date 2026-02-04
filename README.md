@@ -10,7 +10,7 @@
 None at the moment<br/>
 <br/>
 
-<h2>📄 <a href=> CV </a></h2>
+<h2>📄 <a href="https://1drv.ms/b/c/9d8f40ff8622aed2/IQD1vW2yCDIMQ78-9tnb_kFNAaDRoa2aUhq7s_bIkBQs3Zo?e=bBlTfJ"> CV </a></h2>
 <!--
 **Reyneke-van-Niekerk/Reyneke-van-Niekerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
