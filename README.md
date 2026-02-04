@@ -1,5 +1,16 @@
-## Hi there 👋
+<h1>👋 Introduction</h1>
+😁 Hi there I'm <b>Reyneke van Niekerk</b><br/>
+🎓 Software Engineering Student at Belgium Campus iTversity<br/>
+💼 Seeking internship/graduate opportunities in software development<br/>
+🌱 Passionate about IoT and Programming<br/>
+🚀 Skills - Interpersonal skills, Leadership, Programming, Easily Adaptable, Hard working<br/>
 
+<h2>📂 Projects</h2>
+<br/>
+None at the moment<br/>
+<br/>
+
+<h2>📄 <a href=> CV </a></h2>
 <!--
 **Reyneke-van-Niekerk/Reyneke-van-Niekerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
